@@ -3,4 +3,6 @@ High performance data processing employs high performance computing (HPC) to pro
 
 
 ## Project
-[Project 1 - Web Scraper](https://github.com/sean-seah/HPDP/tree/main/2526/project/DataDiggers)
+Project 1 - [Web Scraper](https://github.com/sean-seah/HPDP/tree/main/2526/project/DataDiggers)
+
+Project 2 - [Sentiment Analysis](https://github.com/sean-seah/HPDP/tree/main/2526/project/p2/submission/DataDiggers)
