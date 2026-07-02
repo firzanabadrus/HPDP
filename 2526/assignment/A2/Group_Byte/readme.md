@@ -8,6 +8,7 @@
 | **Member 1** | *NURAISYAH BINTI MOHD ZIKRE - A23CS0160* |
 | **Member 2** | *NUR FIRZANA BINTI BADRUS HISHAM - A23CS0156* |
 | **Course** | SECP3133 High Performance Data Processing |
+| **Colab Notebook** | [big_data.ipynb](https://colab.research.google.com/drive/1S1jJ90-6aZbTFaGhTaAVDVe2teSbpHNp?usp=sharing) |
 
 ---
 
